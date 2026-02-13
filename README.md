@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @skumar51042
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# skumar51042
 
-<!---
-skumar51042/skumar51042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository now includes an **Advanced ERP blueprint** that can be used as a starting point for product planning and implementation.
+
+## Contents
+
+- [`ADVANCED_ERP.md`](./ADVANCED_ERP.md): Detailed vision, module breakdown, architecture, roadmap, and success metrics for an advanced ERP platform.
